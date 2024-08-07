@@ -1,4 +1,4 @@
-# vuejs-admin
+# Vue.js Admin
 
 [Olobase](https://olobase.dev) (Vue.js Admin) is an Open Source full-stack developer framework designed to create fast and easy web applications using Vue.js - Php technologies with allows extensive customizations. Olobase helps you reach your startup goals faster with it's wide software support.
 
